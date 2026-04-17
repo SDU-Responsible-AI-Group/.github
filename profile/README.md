@@ -1,28 +1,23 @@
-# SDU Responsible AI Group
+# ✨ SDU Responsible AI Group
 
 Welcome to the **SDU Responsible AI Group** at **Shandong University**.
 
-We are a research group dedicated to advancing the frontier of:
+> Advancing responsible AI, multimodal learning, LLM agents, Responsible AI, and UAV intelligence.
 
+## 🧠 Research Areas
 - Responsible AI
 - Multimodal Learning
 - LLM Agents
-- Privacy-Aware AI
-- Medical AI
+- Responsible AI
 - UAV Intelligence
 
-## Links
-- Homepage: [Add your homepage here](#)
-- Google Scholar: [Add your Google Scholar here](#)
-- Hugging Face: [Add your Hugging Face here](#)
+## 🔗 Links
+- Homepage: [Coming soon](#)
+- Google Scholar: [Coming soon](#)
 
-## Featured Areas
-Our group focuses on research and open-source projects in:
-- Trustworthy and Responsible AI
-- Multimodal Foundation Models
-- Mobile and Embodied Agents
-- AI for Healthcare
-- Intelligent UAV Systems
 
-## Contact
-For collaboration, academic exchange, or project inquiries, please contact us via email.
+## 🚀 Featured Projects
+- [SAPA-Bench](https://github.com/Zhixin-L/SAPA-Bench)
+
+## 📬 Contact
+- Email: 202437619@mail.sdu.edu.cn
